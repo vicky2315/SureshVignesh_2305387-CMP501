@@ -1,0 +1,12 @@
+Steps to run the applications
+
+1) After extracting, open the Server folder.
+2) Launch My2DAttempt.exe.
+3) Then open the Client folder.
+4) Launch My2DAttempt.exe.
+5) Enter the IP displayed on the Server in the Client Application and click Enter.
+6) Use W,S,A,D or arrow keys to control the player and use spacebar to Jump.
+
+Link to my Demo Video - 
+https://github.com/vicky2315/2305387---Networking-Assessment/blob/main/2305387%20-%20Network%20Assessment.mkv OR
+https://drive.google.com/drive/folders/1LoeT8zKiE4VtDnYz-KXLC2Xl0nw-qGa5?usp=sharing
